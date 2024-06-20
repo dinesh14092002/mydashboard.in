@@ -33,7 +33,7 @@
    
 }
 .first_ul{
-    padding-top: 10px;
+    padding-top: 20px;
 }
 img{
     width: 20px;
@@ -152,7 +152,7 @@ button{
     width: 30px;
     margin-left: 15px;
     float: left;
-    margin-top: 14px;
+    margin-top: 8px;
 }
 .p_name{
     float: left ;
@@ -164,7 +164,7 @@ button{
 .follow{
     margin-left: 10px;
     padding: 8px;
-    margin-top: 15px;
+    margin-top: 8px;
     background-color: rgb(170, 165, 165);
     color: white;
     width: 100px;
@@ -178,7 +178,7 @@ button{
 .msg{
     
     padding: 8px;
-    margin-top: 15px;
+    margin-top: 8px;
     background-color:rgb(170, 165, 165) ;
     color: white;
     width: 130px;
