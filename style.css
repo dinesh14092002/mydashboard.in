@@ -237,6 +237,9 @@ th{
     margin-left: 25px;
    
 }
+.note{
+    padding:2px;
+}
 .date{
     font-size: 13px;
     color:rgb(122, 122, 122) ;
