@@ -8,7 +8,9 @@
 .sub_parent{
     margin-left: 80px;
 }
-
+.con{
+    margin-right:30px;
+}
 .child{
     background-color: white;
     position: absolute;
